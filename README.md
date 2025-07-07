@@ -12,6 +12,7 @@ It’s perfect for landing pages, e-commerce websites, or portfolio UI showcases
 
 - HTML5
 - Tailwind CSS
+- Vite
 
 ## 🚀 Key Features
 
@@ -33,3 +34,7 @@ To run this project locally:
 1️⃣ Clone the repository:
 ```bash
 git clone https://github.com/yourusername/product-card-tailwind.git
+```
+Then:
+`npm run dev`
+
